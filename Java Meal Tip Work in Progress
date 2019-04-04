@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Main {
+  public static void main( String [] args ) {
+
+// Declare Variables
+Scanner scanner = new Scanner( System.in );
+double mealCost;
+
+System.out.println( "Please enter the cost of the meal");
+scanner.nextDouble();
+
+  }
+}
